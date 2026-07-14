@@ -27,7 +27,7 @@
     <img src="https://skillicons.dev/icons?i=linkedin" width="42" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/snuHVf7UJA//" target="_blank">
+  <a href="https://leetcode.com/u/yraj7774/ target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="42"/>
   </a>
   &nbsp;
