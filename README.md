@@ -38,7 +38,7 @@
 
 </td>
 <td width="50%" align="center" valign="middle" style="padding:0;">
-  <img alt="coding" width="100%" height="500" style="display:block; object-fit:cover;" src="https://github.com/user-attachments/assets/e43ea2a0-0dc3-4358-82ed-15fb395f0117">
+  <img alt="coding" width="100%" height="500" style="display:block; object-fit:cover;" src="https://github.com/yashraj7774/yashraj7774/blob/main/assets/banner1.png">
 </td>
 </tr>
 </table>
